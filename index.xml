@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>野生图吧&amp;爱坤游戏</title>
-        <link>https://stack.jimmycai.com/</link>
+        <link>https://github.com/akyx-mc/mslakyx/</link>
         <description>Recent content on 野生图吧&amp;爱坤游戏</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Thu, 14 Aug 2025 08:30:15 +0800</lastBuildDate><atom:link href="https://stack.jimmycai.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 Aug 2025 08:30:15 +0800</lastBuildDate><atom:link href="https://github.com/akyx-mc/mslakyx/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Post</title>
-        <link>https://stack.jimmycai.com/posts/my-first-post/</link>
+        <link>https://github.com/akyx-mc/mslakyx/posts/my-first-post/</link>
         <pubDate>Thu, 14 Aug 2025 08:30:15 +0800</pubDate>
         
-        <guid>https://stack.jimmycai.com/posts/my-first-post/</guid>
+        <guid>https://github.com/akyx-mc/mslakyx/posts/my-first-post/</guid>
         <description></description>
         </item>
         <item>
         <title>我们的服务器</title>
-        <link>https://stack.jimmycai.com/p/test-chinese/</link>
+        <link>https://github.com/akyx-mc/mslakyx/p/test-chinese/</link>
         <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://stack.jimmycai.com/p/test-chinese/</guid>
-        <description>&lt;img src="https://stack.jimmycai.com/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 我们的服务器" /&gt;&lt;h2 id=&#34;mslserverip地址可能会变&#34;&gt;MSL.Server(IP地址可能会变)
+        <guid>https://github.com/akyx-mc/mslakyx/p/test-chinese/</guid>
+        <description>&lt;img src="https://github.com/akyx-mc/mslakyx/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 我们的服务器" /&gt;&lt;h2 id=&#34;mslserverip地址可能会变&#34;&gt;MSL.Server(IP地址可能会变)
 &lt;/h2&gt;&lt;p&gt;MSL地平线生存服是一种全新及概念的MC服务器；目前已开启公测。ip地址随时会变，具体请关注b站野生图吧私信获取最新内容。公测阶段任何BUG与故障请向我们反馈asdfghqwr1@outlook.com我们需要你宝贵的意见。&lt;/p&gt;
 &lt;h2 id=&#34;msl地平线生存服开服理念&#34;&gt;MSL地平线生存服开服理念
 &lt;/h2&gt;&lt;blockquote&gt;
@@ -49,11 +49,11 @@
         </item>
         <item>
         <title>树莓派5玩MC</title>
-        <link>https://stack.jimmycai.com/p/%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%8E%A9mc/</link>
+        <link>https://github.com/akyx-mc/mslakyx/p/%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%8E%A9mc/</link>
         <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://stack.jimmycai.com/p/%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%8E%A9mc/</guid>
-        <description>&lt;img src="https://stack.jimmycai.com/p/%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%8E%A9mc/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post 树莓派5玩MC" /&gt;&lt;h1 id=&#34;树莓派5b玩我的世界java版&#34;&gt;树莓派5b玩我的世界java版
+        <guid>https://github.com/akyx-mc/mslakyx/p/%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%8E%A9mc/</guid>
+        <description>&lt;img src="https://github.com/akyx-mc/mslakyx/p/%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%8E%A9mc/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post 树莓派5玩MC" /&gt;&lt;h1 id=&#34;树莓派5b玩我的世界java版&#34;&gt;树莓派5b玩我的世界java版
 &lt;/h1&gt;&lt;p&gt;1.下载系统&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.raspberrypi.com/software/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;点我下载树莓派烧录工具&lt;/a&gt;&lt;/p&gt;
@@ -71,19 +71,19 @@
         </item>
         <item>
         <title>我们的历史</title>
-        <link>https://stack.jimmycai.com/archives/</link>
+        <link>https://github.com/akyx-mc/mslakyx/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://stack.jimmycai.com/archives/</guid>
+        <guid>https://github.com/akyx-mc/mslakyx/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>MSL团队所有的服务器</title>
-        <link>https://stack.jimmycai.com/p/msl%E5%9B%A2%E9%98%9F%E6%89%80%E6%9C%89%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+        <link>https://github.com/akyx-mc/mslakyx/p/msl%E5%9B%A2%E9%98%9F%E6%89%80%E6%9C%89%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://stack.jimmycai.com/p/msl%E5%9B%A2%E9%98%9F%E6%89%80%E6%9C%89%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
-        <description>&lt;img src="https://stack.jimmycai.com/p/msl%E5%9B%A2%E9%98%9F%E6%89%80%E6%9C%89%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post MSL团队所有的服务器" /&gt;&lt;h2 id=&#34;msl纯净原版生存服&#34;&gt;MSL纯净原版生存服
+        <guid>https://github.com/akyx-mc/mslakyx/p/msl%E5%9B%A2%E9%98%9F%E6%89%80%E6%9C%89%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+        <description>&lt;img src="https://github.com/akyx-mc/mslakyx/p/msl%E5%9B%A2%E9%98%9F%E6%89%80%E6%9C%89%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post MSL团队所有的服务器" /&gt;&lt;h2 id=&#34;msl纯净原版生存服&#34;&gt;MSL纯净原版生存服
 &lt;/h2&gt;&lt;p&gt;ip：akyx.org&lt;/p&gt;
 &lt;p&gt;版本：1.16.1-1.21.7或1.21.7基岩版&lt;/p&gt;
 &lt;p&gt;日活跃人数：8人左右&lt;/p&gt;
@@ -139,11 +139,11 @@
         </item>
         <item>
         <title>我的世界新手教程（启动器安装篇）</title>
-        <link>https://stack.jimmycai.com/p/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B%E5%90%AF%E5%8A%A8%E5%99%A8%E5%AE%89%E8%A3%85%E7%AF%87/</link>
+        <link>https://github.com/akyx-mc/mslakyx/p/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B%E5%90%AF%E5%8A%A8%E5%99%A8%E5%AE%89%E8%A3%85%E7%AF%87/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://stack.jimmycai.com/p/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B%E5%90%AF%E5%8A%A8%E5%99%A8%E5%AE%89%E8%A3%85%E7%AF%87/</guid>
-        <description>&lt;img src="https://stack.jimmycai.com/p/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B%E5%90%AF%E5%8A%A8%E5%99%A8%E5%AE%89%E8%A3%85%E7%AF%87/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post 我的世界新手教程（启动器安装篇）" /&gt;&lt;h2 id=&#34;pcl2启动器推荐&#34;&gt;pcl2启动器（推荐）
+        <guid>https://github.com/akyx-mc/mslakyx/p/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B%E5%90%AF%E5%8A%A8%E5%99%A8%E5%AE%89%E8%A3%85%E7%AF%87/</guid>
+        <description>&lt;img src="https://github.com/akyx-mc/mslakyx/p/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B%E5%90%AF%E5%8A%A8%E5%99%A8%E5%AE%89%E8%A3%85%E7%AF%87/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post 我的世界新手教程（启动器安装篇）" /&gt;&lt;h2 id=&#34;pcl2启动器推荐&#34;&gt;pcl2启动器（推荐）
 &lt;/h2&gt;&lt;p&gt;pcl2是国内知名的mc启动器之一，UI界面简洁功能丰富深受MC玩家的喜爱&lt;/p&gt;
 &lt;p&gt;[点我下载PCL启动器](&lt;a class=&#34;link&#34; href=&#34;https://mod.3dmgame.com/mod/194985&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://mod.3dmgame.com/mod/194985&lt;/a&gt;）&lt;/p&gt;
@@ -161,10 +161,10 @@
         </item>
         <item>
         <title>关于我们</title>
-        <link>https://stack.jimmycai.com/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</link>
+        <link>https://github.com/akyx-mc/mslakyx/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://stack.jimmycai.com/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</guid>
+        <guid>https://github.com/akyx-mc/mslakyx/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</guid>
         <description>&lt;p&gt;本站由MSL团队创建，更多内容请关注&lt;a class=&#34;link&#34; href=&#34;https://www.xiaohongshu.com/user/profile/64577fba0000000014010148&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;爱坤游戏 - 小红书&lt;/a&gt;或&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/3546740607158282?spm_id_from=333.40138.0.0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;野生图吧-B站&lt;/a&gt;。&lt;/p&gt;
@@ -175,10 +175,10 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>https://stack.jimmycai.com/search/</link>
+        <link>https://github.com/akyx-mc/mslakyx/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://stack.jimmycai.com/search/</guid>
+        <guid>https://github.com/akyx-mc/mslakyx/search/</guid>
         <description></description>
         </item>
         
