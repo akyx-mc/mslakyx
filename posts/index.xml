@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 野生图吧&amp;爱坤游戏</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://stack.jimmycai.com/posts/</link>
         <description>Recent content in Posts on 野生图吧&amp;爱坤游戏</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Thu, 14 Aug 2025 08:30:15 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 Aug 2025 08:30:15 +0800</lastBuildDate><atom:link href="https://stack.jimmycai.com/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My First Post</title>
-        <link>http://localhost:1313/posts/my-first-post/</link>
+        <link>https://stack.jimmycai.com/posts/my-first-post/</link>
         <pubDate>Thu, 14 Aug 2025 08:30:15 +0800</pubDate>
         
-        <guid>http://localhost:1313/posts/my-first-post/</guid>
+        <guid>https://stack.jimmycai.com/posts/my-first-post/</guid>
         <description></description>
         </item>
         

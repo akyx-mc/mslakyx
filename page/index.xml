@@ -2,16 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 野生图吧&amp;爱坤游戏</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://stack.jimmycai.com/page/</link>
         <description>Recent content in Pages on 野生图吧&amp;爱坤游戏</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://stack.jimmycai.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我们的历史</title>
+        <link>https://stack.jimmycai.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://stack.jimmycai.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>关于我们</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</link>
+        <link>https://stack.jimmycai.com/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</guid>
+        <guid>https://stack.jimmycai.com/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</guid>
         <description>&lt;p&gt;本站由MSL团队创建，更多内容请关注&lt;a class=&#34;link&#34; href=&#34;https://www.xiaohongshu.com/user/profile/64577fba0000000014010148&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;爱坤游戏 - 小红书&lt;/a&gt;或&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/3546740607158282?spm_id_from=333.40138.0.0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;野生图吧-B站&lt;/a&gt;。&lt;/p&gt;
@@ -19,6 +28,14 @@
 &lt;p&gt;建站还是比较简单的具体见&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV19TgGzaEkd/?spm_id_from=333.1387.homepage.video_card.click&amp;amp;vd_source=ff90049395f94d0da3ce8371becc3879&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;b站手撕猪大佬&lt;/a&gt;&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://stack.jimmycai.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://stack.jimmycai.com/search/</guid>
+        <description></description>
         </item>
         
     </channel>

@@ -2,57 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 野生图吧&amp;爱坤游戏</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://stack.jimmycai.com/tags/</link>
         <description>Recent content in Tags on 野生图吧&amp;爱坤游戏</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Markdown</title>
-        <link>http://localhost:1313/tags/markdown/</link>
+        <lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://stack.jimmycai.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MC</title>
+        <link>https://stack.jimmycai.com/tags/mc/</link>
         <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/markdown/</guid>
+        <guid>https://stack.jimmycai.com/tags/mc/</guid>
         <description></description>
         </item>
         <item>
-        <title>Tag With Whitespaces</title>
-        <link>http://localhost:1313/tags/tag-with-whitespaces/</link>
+        <title>教程</title>
+        <link>https://stack.jimmycai.com/tags/%E6%95%99%E7%A8%8B/</link>
         <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-with-whitespaces/</guid>
+        <guid>https://stack.jimmycai.com/tags/%E6%95%99%E7%A8%8B/</guid>
         <description></description>
         </item>
         <item>
-        <title>Text</title>
-        <link>http://localhost:1313/tags/text/</link>
+        <title>我的世界</title>
+        <link>https://stack.jimmycai.com/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</link>
         <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/text/</guid>
+        <guid>https://stack.jimmycai.com/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</guid>
         <description></description>
         </item>
         <item>
         <title>Css</title>
-        <link>http://localhost:1313/tags/css/</link>
+        <link>https://stack.jimmycai.com/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/css/</guid>
+        <guid>https://stack.jimmycai.com/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>http://localhost:1313/tags/html/</link>
+        <link>https://stack.jimmycai.com/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/html/</guid>
+        <guid>https://stack.jimmycai.com/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Markdown</title>
+        <link>https://stack.jimmycai.com/tags/markdown/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://stack.jimmycai.com/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>http://localhost:1313/tags/themes/</link>
+        <link>https://stack.jimmycai.com/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/themes/</guid>
+        <guid>https://stack.jimmycai.com/tags/themes/</guid>
         <description></description>
         </item>
         

@@ -2,42 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on 野生图吧&amp;爱坤游戏</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://stack.jimmycai.com/categories/</link>
         <description>Recent content in Categories on 野生图吧&amp;爱坤游戏</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://stack.jimmycai.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Mc服务器</title>
-        <link>http://localhost:1313/categories/mc%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+        <link>https://stack.jimmycai.com/categories/mc%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
         <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/mc%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+        <guid>https://stack.jimmycai.com/categories/mc%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
         <description></description>
         </item>
         <item>
         <title>树莓派</title>
-        <link>http://localhost:1313/categories/%E6%A0%91%E8%8E%93%E6%B4%BE/</link>
+        <link>https://stack.jimmycai.com/categories/%E6%A0%91%E8%8E%93%E6%B4%BE/</link>
         <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/%E6%A0%91%E8%8E%93%E6%B4%BE/</guid>
+        <guid>https://stack.jimmycai.com/categories/%E6%A0%91%E8%8E%93%E6%B4%BE/</guid>
         <description></description>
         </item>
         <item>
         <title>我的世界</title>
-        <link>http://localhost:1313/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</link>
+        <link>https://stack.jimmycai.com/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</link>
         <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</guid>
+        <guid>https://stack.jimmycai.com/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>Test</title>
-        <link>http://localhost:1313/categories/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/test/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>
